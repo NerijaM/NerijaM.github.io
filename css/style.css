@@ -1647,8 +1647,8 @@ input[type="radio"] .styled:checked+label::after {
      display: block;
 }
 .plants .plants-box {
-     background-color: #fff;
-     box-shadow: #dcd8d8 0px 1px 3px 0px;
+     background-color: rgb(138, 15, 15);
+     box-shadow: #c90b73 0px 1px 3px 0px;
      margin-bottom: 30px;
 }
 .plants .plants-box figure {
